@@ -1,7 +1,7 @@
 # GUVI-Projects
 List of Projects I did in Guvi
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project 1
+Project 1  
 Task:
 
 Your task is to design a homepage for a Gym website using HTML and CSS. The website should promote various services offered by the gym, showcase testimonials from satisfied clients, and provide a contact form for inquiries. Your design should be engaging, visually appealing, and reflect the gym's commitment to fitness and wellness. Design for both desktop and mobile versions.
