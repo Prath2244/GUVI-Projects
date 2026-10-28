@@ -1,0 +1,192 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background: #f7f7fb;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 8%;
+    background: white;
+}
+
+nav h2 {
+    color: #6842d9;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin-left: 20px;
+}
+
+nav a:hover {
+    color: #6842d9;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 55px 8%;
+    background: #eee9ff;
+}
+
+.hero h1 {
+    font-size: 38px;
+    color: #30205f;
+}
+
+.hero p {
+    margin-bottom: 25px;
+}
+
+.hero-emoji {
+    font-size: 100px;
+}
+
+.btn {
+    display: inline-block;
+    background: #6842d9;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #4e2bb5;
+}
+
+.offer {
+    text-align: center;
+    background: #ffe5a8;
+    padding: 25px 15px;
+}
+
+.products-section {
+    padding: 40px 8%;
+    text-align: center;
+}
+
+.products-section > p {
+    color: #777;
+    margin-bottom: 30px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    padding: 25px 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.card:hover {
+    border-color: #6842d9;
+}
+
+.emoji {
+    font-size: 55px;
+}
+
+.card p {
+    color: #6842d9;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background: #6842d9;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #4e2bb5;
+}
+
+.subscribe {
+    text-align: center;
+    padding: 35px 15px;
+    background: #eee9ff;
+}
+
+.subscribe form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+input {
+    padding: 11px;
+    width: 260px;
+    max-width: 65%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background: #30205f;
+    color: white;
+    padding: 15px;
+}
+
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav a {
+        margin: 0 8px;
+    }
+
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .hero h1 {
+        font-size: 30px;
+    }
+
+    .products {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 450px) {
+    .products {
+        grid-template-columns: 1fr;
+    }
+
+    .subscribe form {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    input {
+        width: 100%;
+        max-width: 100%;
+    }
+}
