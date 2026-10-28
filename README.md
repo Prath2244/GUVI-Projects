@@ -18,7 +18,7 @@ Homepage Design: Include sections such as services offered, client testimonials,
 Navigation: Ensure intuitive navigation with clear links to various sections.
 Multimedia Content: Use images and videos to make the website visually appealing and engaging.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Project 2
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Project 2  
 Task:
 
 Your task is to design a landing page for an eCommerce website using HTML and CSS. The landing page should showcase featured products, include a promotional banner, and have a clear call-to-action section. Your design should be modern, responsive, and focused on creating a high-converting user experience. Design for both desktop and mobile versions.
