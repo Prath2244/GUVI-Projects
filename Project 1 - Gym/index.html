@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym Homepage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo">GUVI Gym</div>
+            <nav class="nav-links">
+                <a href="#intro">About</a>
+                <a href="#services">Services</a>
+                <a href="#rating">Rating</a>
+                <a href="#register">Register</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="intro" class="hero-section">
+        <div class="hero-overlay">
+            <div class="hero-content">
+                <h2>Welcome to GUVI Gym</h2>
+                <p>Your premier destination for high-intensity training, comprehensive wellness, and unyielding progress. We provide the space, the tools, and the community to help you build your best self.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services-section">
+        <div class="container">
+            <h2>Our Services</h2>
+            
+            <div class="service-list">
+                <div class="service-row">
+                    <div class="service-description">
+                        <h3>Personal Training</h3>
+                        <p>Work 1-on-1 with our elite trainers to perfect your form, build customized workout splits, and hit your fitness goals faster than ever.</p>
+                    </div>
+                    <a href="#register" class="btn-forward">Move Forward &rarr;</a>
+                </div>
+
+                <div class="service-row">
+                    <div class="service-description">
+                        <h3>Recovery Training</h3>
+                        <p>Dedicated programs focused on mobility, active recovery, and injury prevention to keep your body functioning at its absolute peak.</p>
+                    </div>
+                    <a href="#register" class="btn-forward">Move Forward &rarr;</a>
+                </div>
+
+                <div class="service-row">
+                    <div class="service-description">
+                        <h3>Diets for Weight Gain & Loss</h3>
+                        <p>Scientifically backed nutritional guidance and customized meal planning designed to fuel your workouts and transform your physique.</p>
+                    </div>
+                    <a href="#register" class="btn-forward">Move Forward &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="rating" class="rating-section">
+        <div class="container text-center">
+            <h2>Member Satisfaction</h2>
+            <div class="rating-box">
+                <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+                <div class="rating-score">4.8 out of 5</div>
+                <p class="review-count">Based on 64 reviews from our dedicated members</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="register" class="register-section">
+        <div class="container">
+            <h2>Join the Gym</h2>
+            <form class="registration-form">
+                
+                <div class="form-group">
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="age">Age</label>
+                    <input type="text" id="age" name="age" required>                
+                </div>
+
+                <div class="form-group">
+                    <label for="gender">Gender</label>
+                    <select id="gender" name="gender" required>
+                        <option value="" disabled selected>Select Gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="duration">Membership Duration</label>
+                    <select id="duration" name="duration" required>
+                        <option value="" disabled selected>Select Time Period</option>
+                        <option value="1_month">1 Month</option>
+                        <option value="3_months">3 Months</option>
+                        <option value="6_months">6 Months</option>
+                        <option value="1_year">1 Year</option>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-submit">Submit Registration</button>
+            </form>
+        </div>
+    </section>
+
+</body>
+</html>
