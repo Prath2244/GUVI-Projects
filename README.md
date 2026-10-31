@@ -31,3 +31,34 @@ Your task is to design a landing page for an eCommerce website using HTML and CS
 * **Landing Page Design:** Include sections such as a product showcase, a promotional banner, and a call-to-action. Ensure the inclusion of navigation menus, buttons, and forms for user interaction.
 * **Responsive Design:** Ensure the layout adapts seamlessly to different screen sizes, providing a consistent user experience across desktop and mobile devices.
 * **Interactive Elements:** Add interactive components such as hover effects on buttons and product cards, and ensure smooth user interaction.
+
+---
+## Project 3
+**Task:**
+Your task is to design a digital resume using HTML & CSS. The resume should effectively showcase your skills, experience, and personal brand. A key feature of your resume will be the ability for users to switch between light and dark themes based on their preferences. Design for both desktop and mobile versions.
+
+**Objectives:**
+* **User Engagement:** Create an interactive and visually appealing resume that captures the user’s attention and keeps them engaged.
+* **HTML & CSS:** Use HTML for structuring the content, CSS for styling.
+* **Brand Representation:** Design the resume to reflect your personal brand and style, making it unique and memorable.
+
+**Requirements:**
+* **Interactive Elements:** Incorporate interactive components like hover effects and smooth transitions to enhance user experience.Requirements:
+* **Resume Structure:** Include sections such as personal information, skills, experience, education, and a portfolio or project showcase.
+* **Theme Switching:** Implement a light and dark theme using CSS variables to toggle between themes.
+* **Interactive Elements:** Incorporate interactive components like hover effects and smooth transitions to enhance user experience.
+
+---
+## Project 4
+**Task:**
+Your task is to design and develop a responsive registration form using Bootstrap. The form should include various input fields such as text inputs, email, password, dropdown selections, and a checkbox. The design should be professional and adapt seamlessly to different screen sizes, ensuring an intuitive and user-friendly experience.
+
+**Objectives:**
+* **Responsive Design:** Create a registration form that is fully responsive, adapting to various screen sizes using Bootstrap’s grid system and classes.
+* **User-Friendly Interface:** Ensure the form is easy to navigate and provides a smooth user experience with clearly labeled fields and intuitive input types.
+* **Bootstrap Styling:** Utilize Bootstrap classes for form elements, layout, and styling to create a visually appealing and cohesive design.
+
+**Requirements:**
+* **Form Elements:** Include text inputs, email, password, dropdown selections, and a checkbox.
+* **Responsive Layout:** Use Bootstrap’s grid system and utility classes to ensure the form is mobile-friendly and responsive.
+* **Form Validation:** Implement basic form validation using Bootstrap’s built-in validation classes to enhance user feedback.
