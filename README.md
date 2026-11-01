@@ -18,6 +18,7 @@ Your task is to design a homepage for a Gym website using HTML and CSS. The webs
 * **Multimedia Content:** Use images and videos to make the website visually appealing and engaging.
 
 ---
+
 ## Project 2  
 **Task:**  
 Your task is to design a landing page for an eCommerce website using HTML and CSS. The landing page should showcase featured products, include a promotional banner, and have a clear call-to-action section. Your design should be modern, responsive, and focused on creating a high-converting user experience. Design for both desktop and mobile versions.
@@ -33,6 +34,7 @@ Your task is to design a landing page for an eCommerce website using HTML and CS
 * **Interactive Elements:** Add interactive components such as hover effects on buttons and product cards, and ensure smooth user interaction.
 
 ---
+
 ## Project 3
 **Task:**
 Your task is to design a digital resume using HTML & CSS. The resume should effectively showcase your skills, experience, and personal brand. A key feature of your resume will be the ability for users to switch between light and dark themes based on their preferences. Design for both desktop and mobile versions.
@@ -49,6 +51,7 @@ Your task is to design a digital resume using HTML & CSS. The resume should effe
 * **Interactive Elements:** Incorporate interactive components like hover effects and smooth transitions to enhance user experience.
 
 ---
+
 ## Project 4
 **Task:**
 Your task is to design and develop a responsive registration form using Bootstrap. The form should include various input fields such as text inputs, email, password, dropdown selections, and a checkbox. The design should be professional and adapt seamlessly to different screen sizes, ensuring an intuitive and user-friendly experience.
@@ -64,6 +67,7 @@ Your task is to design and develop a responsive registration form using Bootstra
 * **Form Validation:** Implement basic form validation using Bootstrap’s built-in validation classes to enhance user feedback.
 
 ---
+
 ## Project 5
 **Task:**
 Your task is to design and develop a Todo List application using HTML, CSS, and JavaScript. The application should allow users to add, delete, and mark tasks as completed. The tasks should be stored in local storage to ensure they persist across page reloads. Design for both desktop and mobile versions.
