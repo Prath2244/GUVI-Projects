@@ -62,3 +62,18 @@ Your task is to design and develop a responsive registration form using Bootstra
 * **Form Elements:** Include text inputs, email, password, dropdown selections, and a checkbox.
 * **Responsive Layout:** Use Bootstrap’s grid system and utility classes to ensure the form is mobile-friendly and responsive.
 * **Form Validation:** Implement basic form validation using Bootstrap’s built-in validation classes to enhance user feedback.
+
+---
+## Project 5
+**Task:**
+Your task is to design and develop a Todo List application using HTML, CSS, and JavaScript. The application should allow users to add, delete, and mark tasks as completed. The tasks should be stored in local storage to ensure they persist across page reloads. Design for both desktop and mobile versions.
+
+**Objectives:**
+* **User Engagement:** Create a user-friendly interface that makes managing tasks intuitive and enjoyable.
+* **HTML, CSS, and JavaScript:** Use HTML for structuring the application, CSS for styling, and JavaScript to handle user interactions and update the DOM dynamically.
+* **Data Persistence:** Utilize local storage to ensure tasks persist even after the page is reloaded.
+
+**Requirements:**
+* **Application Features:** Include functionalities for adding new tasks, deleting tasks, and marking tasks as completed. Display tasks dynamically on the page.
+* **Persistent Data:** Store tasks in local storage to maintain data across sessions.
+* **Responsive Design:** Ensure the application is mobile-responsive and provides a seamless experience across different devices.
