@@ -1,0 +1,21 @@
+/* Styling for completed tasks */
+.completed-task {
+    text-decoration: line-through;
+    color: #6c757d; 
+    background-color: #f8f9fa;
+}
+
+/* Make list items look interactive */
+.todo-item {
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.todo-item:hover {
+    background-color: #f1f3f5;
+}
+
+/* Ensure the delete button remains clickable on top of the list item */
+.delete-btn {
+    z-index: 2; 
+}
