@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f7f6;
+}
+
+/* Fallback for the logo if the image isn't downloaded yet */
+img[alt="GUVI Logo"] {
+    background-color: #e9ecef;
+    border-radius: 4px;
+    width: 40px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 40px;
+}
