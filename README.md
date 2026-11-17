@@ -89,14 +89,14 @@ Your task is to design and develop a Todo List application using HTML, CSS, and 
 Your task is to create a user registration form using JavaScript to handle form behavior and validation. The project will be completed in two phases: the first phase will use JavaScript function prototypes, and the second phase will transition to using ES6 classes and objects. The form should include fields for user information such as name, email, and password, with robust validation logic to ensure correct data entry.
 
 **Objectives:**
-* **Form Creation and Validation: Build a registration form with a focus on user input validation and feedback.
-* **JavaScript Function Prototypes: In the first phase, use JavaScript function prototypes to structure and manage the validation logic.
-* **ES6 Classes and Objects: In the second phase, refactor the form validation logic using ES6 class syntax to create a modern, maintainable codebase.
-* **HTML and CSS: Develop the frontend user interface using HTML and CSS, focusing on usability and aesthetics.
+* **Form Creation and Validation:** Build a registration form with a focus on user input validation and feedback.
+* **JavaScript Function Prototypes:** In the first phase, use JavaScript function prototypes to structure and manage the validation logic.
+* **ES6 Classes and Objects:** In the second phase, refactor the form validation logic using ES6 class syntax to create a modern, maintainable codebase.
+* **HTML and CSS:** Develop the frontend user interface using HTML and CSS, focusing on usability and aesthetics.
 
 **Requirements:**
-* **Phase 1: Implement the registration form using JavaScript function prototypes to handle form validation and error handling.
-* **Phase 2: Refactor the form validation logic using ES6 classes and methods, demonstrating modern JavaScript practices.
-* **Form Features: Ensure the form includes validation for fields like name, email, and password, and provide feedback for invalid input.
+* **Phase 1:** Implement the registration form using JavaScript function prototypes to handle form validation and error handling.
+* **Phase 2:** Refactor the form validation logic using ES6 classes and methods, demonstrating modern JavaScript practices.
+* **Form Features:** Ensure the form includes validation for fields like name, email, and password, and provide feedback for invalid input.
 
 ---
