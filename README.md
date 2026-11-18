@@ -100,3 +100,20 @@ Your task is to create a user registration form using JavaScript to handle form 
 * **Form Features:** Ensure the form includes validation for fields like name, email, and password, and provide feedback for invalid input.
 
 ---
+
+## Project 7
+**Task:**
+Your task is to design and develop a live news web application using React and an external news API. The application should fetch and display live news articles in a structured and responsive layout. You will use React class-based components, initialize state and props through constructors, and manage asynchronous data loading using API requests.
+
+**Objectives:**
+* **Dynamic Data Integration:** Utilize an external news API to fetch and display live news articles.
+* **Component-Based Architecture:** Build the application using React class-based components to manage state and props.
+* **Responsive Design:** Ensure the application is responsive and user-friendly across different screen sizes.
+
+**Requirements:**
+* **API Integration:** Use a third-party news API to fetch live data.
+* **React Components:** Create class-based components with constructors for state and props initialization.
+* **State Management:** Handle state changes dynamically based on API responses.
+* **Responsive Layout:** Design a structured layout that adapts to various screen sizes.
+
+---
